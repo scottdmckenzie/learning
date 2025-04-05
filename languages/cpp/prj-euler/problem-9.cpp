@@ -18,7 +18,7 @@ int f(int n) {
         break;
       }
     }
-    if (product > 0) break; // Exit early if the triple is found
+    if (product > 0) break; 
   }
   return product;
 }
